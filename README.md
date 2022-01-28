@@ -8,6 +8,9 @@
 ## 2. Build Graph
  - python build_graphs.py (check arg parser)
  
-## 3. Training Graph Transformer.py
+## 3. Training Graph Transformer
  - cd ..
  - python main.py (check arg parser at option.py)
+
+
+## 4. Visualization (In Progress)
