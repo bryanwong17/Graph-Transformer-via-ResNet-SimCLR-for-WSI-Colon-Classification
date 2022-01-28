@@ -1,4 +1,4 @@
-# Graph-Transformer-via-ResNet-for-WSI-Colon-Classification
+# Graph Transformer via ResNet SimCLR for Whole Slide Image (WSI) Colon Classification
 
 ### Implementation from https://www.medrxiv.org/content/10.1101/2021.10.15.21265060v1
 
